@@ -14,14 +14,14 @@ if __name__ == '__main__':
 
 ## PythonKC Winter 2016 Meetup
 
-* Thursday 28 January 2016
-* BATS Global Markets
-* Presentations
+* [Thursday 28 January 2016](http://www.meetup.com/pythonkc/events/227574245/)
+* [BATS Global Markets](http://www.batstrading.com)
+* Still seeking presentations
 
 ## PythonKC February 2016 Coffee & Code
 
-* Saturday 13 February 2016
-* Location
+* [Saturday 13 February 2016](http://www.meetup.com/pythonkc/events/227778898/)
+* No location yet
 
 ## PythonKC News
 
