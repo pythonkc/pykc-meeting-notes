@@ -30,3 +30,5 @@ if __name__ == '__main__':
 ## Python News
 
 * [The Elements of Python Style](https://github.com/amontalenti/elements-of-python-style)
+* Anderson Resende: [Functional programming in Python the simplest way](http://www.vinta.com.br/blog/2015/functional-programming-python.html)
+* [Brett Cannon's Blog](http://snarky.ca/)
