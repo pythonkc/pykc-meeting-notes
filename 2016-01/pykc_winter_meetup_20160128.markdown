@@ -24,7 +24,7 @@ if __name__ == '__main__':
 * Looking for a location. Please contact Caleb, Chip, or Jon if you have a location.
 * Looking for presenters. Please contact Caleb, Chip, or Jon if you'd like to present.
 
-## Python News
+## Python News and Resources
 
 * Python Software Foundation. [Welcome to the Warehouse](http://pyfound.blogspot.com/2016/01/welcome-to-warehouse.html)
 * Scott Robinson. [Python Properties](http://stackabuse.com/python-properties/)
@@ -36,6 +36,7 @@ if __name__ == '__main__':
 ## PythonKC News
 
 * [Code of Conduct](https://github.com/pythonkc/code-of-conduct)
+* [Slack](https://slack.com)
 
 ## Agenda
 
@@ -43,3 +44,7 @@ if __name__ == '__main__':
 * Giveaways
 * Jon Smajda. How to Break Lines Without Breaking Hearts
 * Lightning Talks
+
+## After Event
+
+* TBD
