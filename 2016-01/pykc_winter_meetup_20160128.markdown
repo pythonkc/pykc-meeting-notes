@@ -47,4 +47,5 @@ if __name__ == '__main__':
 
 ## After Event
 
-* TBD
+* [Ruins Pub](http://ruinspubkc.com)
+* [Up-Down](http://www.updownkc.com)
