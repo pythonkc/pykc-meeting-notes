@@ -32,7 +32,7 @@ if __name__ == '__main__':
 * Matt's Codecave. [Switching from 2 to 3: Love, asyncio, and more](http://mattscodecave.com/posts/switching-from-2-to-3-love-asyncio-and-more.html)
 * Brett Cannon. [How to pitch Python 3 to management](http://www.snarky.ca/how-to-pitch-python-3-to-management)
 * Bruno Rocha. [Microservices with Python, RabbitMQ, and Nameko](http://brunorocha.org/python/microservices-with-python-rabbitmq-and-nameko.html)
-* Trey Hunner. [The idiomatic Way to Merge Dictionaries in Python](https://treyhunner.com/2016/02/how-to-merge-dictionaries-in-python/)
+* Trey Hunner. [The Idiomatic Way to Merge Dictionaries in Python](https://treyhunner.com/2016/02/how-to-merge-dictionaries-in-python/)
 * Ionuț Arțăriși. [The origins of the `class Meta` idiom in python [_sic_]](http://mapleoin.github.io/perma/python-class-meta)
 * Luke Lee. [Defensive programming in Python](http://tutorials.pluralsight.com/python/defensive-programming-in-python)
 * Leonardo Giordani. [Python Mocks: a gentle introduction – Part 1](http://blog.thedigitalcatonline.com/blog/2016/03/06/python-mocks-a-gentle-introduction-part-1/)
