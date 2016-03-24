@@ -11,3 +11,4 @@
 
 ### March
 * [Coffee & Code Meeting Notes](https://github.com/pythonkc/pykc-meeting-notes/blob/master/2016-03/pykc_coffe_20160312.markdown)
+* [Spring 2016 Meetup Notes](https://github.com/pythonkc/pykc-meeting-notes/blob/master/2016-03/pykc_spring_meetup_20160324.markdown)
