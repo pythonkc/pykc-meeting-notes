@@ -33,7 +33,7 @@ if __name__ == '__main__':
 * Sachin Joglekar. [A practical introduction to Functional Programming for Python coders](https://codesachin.wordpress.com/2016/04/03/a-practical-introduction-to-functional-programming-for-python-coders/)
 * Brett Cannon. [Why `pathlib.Path` doesn't inherit from `str` in Python](http://www.snarky.ca/why-pathlib-path-doesn-t-inherit-from-str)
 * Abu Ashraf Masnun. [Python: A Quick Introduction to the `concurrent.futures` Module](http://masnun.com/2016/03/29/python-a-quick-introduction-to-the-concurrent-futures-module.html)
-* Abu Ashraf Masnum. [Understanding Decorators in Python](http://masnun.com/2016/04/03/understanding-decorators-in-python.html
+* Abu Ashraf Masnum. [Understanding Decorators in Python](http://masnun.com/2016/04/03/understanding-decorators-in-python.html)
 * Mike Driscoll. [Python 201 – The handy `defaultdict`](http://www.blog.pythonlibrary.org/2016/03/23/python-201-the-handy-defaultdict/)
 * [`tmuxp`: `tmux` session manager](http://tmuxp.readthedocs.org/en/latest/)
 * [`requirements`: Python requirements made easy](https://github.com/socketubs/requirements)
