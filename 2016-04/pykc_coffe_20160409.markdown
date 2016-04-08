@@ -30,5 +30,6 @@ if __name__ == '__main__':
 
 ## Python News and Resources
 * Scott Robinson and Real Python. [Python Virtual Environments - a Primer](https://realpython.com/blog/python/python-virtual-environments-a-primer/)
-
 * Sachin Joglekar. [A practical introduction to Functional Programming for Python coders](https://codesachin.wordpress.com/2016/04/03/a-practical-introduction-to-functional-programming-for-python-coders/)
+* Brett Cannon. [Why `pathlib.Path` doesn't inherit from `str` in Python](http://www.snarky.ca/why-pathlib-path-doesn-t-inherit-from-str)
+* Abu Ashraf Masnun. [Python: A Quick Introduction to the `concurrent.futures` Module](http://masnun.com/2016/03/29/python-a-quick-introduction-to-the-concurrent-futures-module.html)
