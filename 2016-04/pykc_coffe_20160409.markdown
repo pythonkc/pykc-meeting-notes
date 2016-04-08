@@ -30,4 +30,5 @@ if __name__ == '__main__':
 
 ## Python News and Resources
 * Scott Robinson and Real Python. [Python Virtual Environments - a Primer](https://realpython.com/blog/python/python-virtual-environments-a-primer/)
+
 * Sachin Joglekar. [A practical introduction to Functional Programming for Python coders](https://codesachin.wordpress.com/2016/04/03/a-practical-introduction-to-functional-programming-for-python-coders/)
