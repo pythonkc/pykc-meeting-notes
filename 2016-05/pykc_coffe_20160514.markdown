@@ -36,3 +36,4 @@ if __name__ == '__main__':
 * Karol Kuczmarski. [Source code of a Python lambda](http://xion.io/post/code/python-get-lambda-code.html)
 * Jason Myers. [Parallelizing Queries with SQLAlchemy, Gevent, and PostgreSQL](http://www.jasonamyers.com/gevent-postgres-sqlalchemy)
 * Reddit. [How I built an entire game and toolchain 100% in Python using PyGame](https://www.reddit.com/r/Python/comments/4hazs4/how_i_built_an_entire_game_and_toolchain_100_in/)
+* Allison Kaptur. [Introduction to the Python Interpreter (multipart)](http://akaptur.com/blog/2013/11/15/introduction-to-the-python-interpreter/)
