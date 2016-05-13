@@ -29,3 +29,10 @@ if __name__ == '__main__':
 * [Meetup.com Discussion Board](http://www.meetup.com/pythonkc/messages/boards/thread/49656306)
 
 ## Python News and Resources
+* [Ubuntu 16.04 has Python 3.5 standard](http://www.ubuntu.com/desktop/developers) (versus Python 2.x)
+* Python Engineering at Microsoft. [Idiomatic Python: boolean expressions](https://blogs.msdn.microsoft.com/pythonengineering/2016/04/18/idiomatic-python-boolean-expressions/)
+* Aaron Snitzer. [Package management in Python 2 or 3 ](http://aaronsnitzer.com/writing/2016/04/27/virtualenv-and-pyvenv-beginner-tutorial.html)
+* The Yhat Blog. [Building a (semi) Autonomous Drone with Python](http://blog.yhat.com/posts/autonomous-droning-with-python.html)
+* Karol Kuczmarski. [Source code of a Python lambda](http://xion.io/post/code/python-get-lambda-code.html)
+* Jason Myers. [Parallelizing Queries with SQLAlchemy, Gevent, and PostgreSQL](http://www.jasonamyers.com/gevent-postgres-sqlalchemy)
+* Reddit. [How I built an entire game and toolchain 100% in Python using PyGame](https://www.reddit.com/r/Python/comments/4hazs4/how_i_built_an_entire_game_and_toolchain_100_in/)
