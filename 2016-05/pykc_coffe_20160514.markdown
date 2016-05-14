@@ -14,6 +14,11 @@ if __name__ == '__main__':
 ```
 ## PythonKC News
 
+### HackKC
+* [Saturday & Sunday 4 & 5 June 2016](http://codeforkc.org/hackkc/)
+* 9:00 a.m. to 4:00 p.m.
+* [UMKC School of Law](http://law.umkc.edu)
+
 ### PythonKC Summer 2016 Meetup
 * [Thursday 25 August 2016](http://www.meetup.com/pythonkc/events/xgjdhlyvlbhc/)
 * Looking for a location
