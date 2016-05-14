@@ -2,6 +2,9 @@
 
 ## 2016
 
+### May
+* [Coffee & Code Meeting Notes](https://github.com/pythonkc/pykc-meeting-notes/blob/master/2016-05/pykc_coffe_20160514.markdown)
+
 ### April
 * [Coffee & Code Meeting Notes](https://github.com/pythonkc/pykc-meeting-notes/blob/master/2016-04/pykc_coffe_20160409.markdown)
 
