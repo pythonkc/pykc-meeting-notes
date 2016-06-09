@@ -16,7 +16,7 @@ if __name__ == '__main__':
 
 ### PythonKC Organizer Search
 * Python expertise is _not_ a requirement
-    * Oraganizer tasks have almost _nothing_ to do with Python skills
+    * Organizer tasks have almost _nothing_ to do with Python skills
     * Finding meeting space and lining up presentations don't require writing code
 * Being an organizer is _not_ a huge time commitment
     * Mostly it's just _showing up_
