@@ -41,3 +41,20 @@ if __name__ == '__main__':
 * [Meetup.com Discussion Board](http://www.meetup.com/pythonkc/messages/boards/thread/49656306)
 
 ## Python News and Resources
+* [PyCon 2016 videos](https://www.youtube.com/channel/UCwTD5zJbsQGJN75MwbykYNw)
+  * Ned Batchelder, Miguel Grinberg, Guido van Rossum, and many more...
+* [PSF Board 2016](https://wiki.python.org/moin/PythonSoftwareFoundation/BoardCandidates2016)
+  * the Python Software Foundation
+  * "Get involved in a language standardization effort." [Norvig](http://norvig.com/21-days.html)
+* [How Celery fixed Python's GIL problem](http://blog.domanski.me/how-celery-fixed-pythons-gil-problem/)
+* [Building a data science portfolio: Storytelling with data](https://www.dataquest.io/blog/data-science-portfolio-project/)
+* [bashplotlib: plotting in the terminal](https://github.com/glamp/bashplotlib)
+* [Introducing Data Science]https://www.manning.com/books/introducing-data-science) (book)
+
+  > Introducing Data Science teaches you how to accomplish the
+  > fundamental tasks that occupy data scientists. Using the Python
+  > language and common Python libraries, you'll experience firsthand
+  > the challenges of dealing with data at scale and gain a solid
+  > foundation in data science.
+
+* [Pycoders Weekly](http://pycoders.com/) (source for lots of these news items)
