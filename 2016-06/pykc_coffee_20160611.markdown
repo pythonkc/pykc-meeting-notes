@@ -1,5 +1,4 @@
 # PythonKC June 2016 Coffee & Code
-
 ```python
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
@@ -12,6 +11,7 @@ def greetings():
 if __name__ == '__main__':
     greetings()
 ```
+
 ## PythonKC News
 
 ### PythonKC Organizer Search
@@ -41,20 +41,12 @@ if __name__ == '__main__':
 * [Meetup.com Discussion Board](http://www.meetup.com/pythonkc/messages/boards/thread/49656306)
 
 ## Python News and Resources
-* [PyCon 2016 videos](https://www.youtube.com/channel/UCwTD5zJbsQGJN75MwbykYNw)
-  * Ned Batchelder, Miguel Grinberg, Guido van Rossum, and many more...
-* [PSF Board 2016](https://wiki.python.org/moin/PythonSoftwareFoundation/BoardCandidates2016)
-  * the Python Software Foundation
-  * "Get involved in a language standardization effort." [Norvig](http://norvig.com/21-days.html)
-* [How Celery fixed Python's GIL problem](http://blog.domanski.me/how-celery-fixed-pythons-gil-problem/)
-* [Building a data science portfolio: Storytelling with data](https://www.dataquest.io/blog/data-science-portfolio-project/)
-* [bashplotlib: plotting in the terminal](https://github.com/glamp/bashplotlib)
-* [Introducing Data Science](https://www.manning.com/books/introducing-data-science) (book)
-
-  > Introducing Data Science teaches you how to accomplish the
-  > fundamental tasks that occupy data scientists. Using the Python
-  > language and common Python libraries, you'll experience firsthand
-  > the challenges of dealing with data at scale and gain a solid
-  > foundation in data science.
-
-* [Pycoders Weekly](http://pycoders.com/) (source for lots of these news items)
+* [PyCon 2016 YouTube channel](https://www.youtube.com/channel/UCwTD5zJbsQGJN75MwbykYNw)
+* [Candidates for the 2016 PSF Board of Directors](https://wiki.python.org/moin/PythonSoftwareFoundation/BoardCandidates2016)
+* Peter Norvig. [Teach Yourself Programming in Ten Years](http://norvig.com/21-days.html)
+* Daniel Roy Greenfeld. [Code, Code, Code](http://www.pydanny.com/code-code-code.html)
+* Michał Domański. [How Celery fixed Python's GIL problem](http://blog.domanski.me/how-celery-fixed-pythons-gil-problem/)
+* Vik Paruchuri. [Building a data science portfolio: Storytelling with data](https://www.dataquest.io/blog/data-science-portfolio-project/)
+* Greg Lamp. [bashplotlib: plotting in the terminal](https://github.com/glamp/bashplotlib)
+* Davy Cielen, Arno D. B. Meysman, and Mohamed Ali. [Introducing Data Science](https://www.manning.com/books/introducing-data-science)
+  > Introducing Data Science teaches you how to accomplish the fundamental tasks that occupy data scientists. Using the Python language and common Python libraries, you'll experience firsthand the challenges of dealing with data at scale and gain a solid foundation in data science.
