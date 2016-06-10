@@ -43,6 +43,7 @@ if __name__ == '__main__':
 ## Python News and Resources
 * [PyCon 2016 YouTube channel](https://www.youtube.com/channel/UCwTD5zJbsQGJN75MwbykYNw)
 * [Candidates for the 2016 PSF Board of Directors](https://wiki.python.org/moin/PythonSoftwareFoundation/BoardCandidates2016)
+* Mike Driscoll. [Python 101: An Intro to Benchmarking your code](http://www.blog.pythonlibrary.org/2016/05/24/python-101-an-intro-to-benchmarking-your-code/)
 * Peter Norvig. [Teach Yourself Programming in Ten Years](http://norvig.com/21-days.html)
 * Daniel Roy Greenfeld. [Code, Code, Code](http://www.pydanny.com/code-code-code.html)
 * Michał Domański. [How Celery fixed Python's GIL problem](http://blog.domanski.me/how-celery-fixed-pythons-gil-problem/)
