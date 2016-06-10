@@ -49,7 +49,7 @@ if __name__ == '__main__':
 * [How Celery fixed Python's GIL problem](http://blog.domanski.me/how-celery-fixed-pythons-gil-problem/)
 * [Building a data science portfolio: Storytelling with data](https://www.dataquest.io/blog/data-science-portfolio-project/)
 * [bashplotlib: plotting in the terminal](https://github.com/glamp/bashplotlib)
-* [Introducing Data Science]https://www.manning.com/books/introducing-data-science) (book)
+* [Introducing Data Science](https://www.manning.com/books/introducing-data-science) (book)
 
   > Introducing Data Science teaches you how to accomplish the
   > fundamental tasks that occupy data scientists. Using the Python
