@@ -49,4 +49,5 @@ if __name__ == '__main__':
 * Vik Paruchuri. [Building a data science portfolio: Storytelling with data](https://www.dataquest.io/blog/data-science-portfolio-project/)
 * Greg Lamp. [bashplotlib: plotting in the terminal](https://github.com/glamp/bashplotlib)
 * Davy Cielen, Arno D. B. Meysman, and Mohamed Ali. [Introducing Data Science](https://www.manning.com/books/introducing-data-science)
-> Introducing Data Science teaches you how to accomplish the fundamental tasks that occupy data scientists. Using the Python language and common Python libraries, you'll experience firsthand the challenges of dealing with data at scale and gain a solid foundation in data science.
+
+  > Introducing Data Science teaches you how to accomplish the fundamental tasks that occupy data scientists. Using the Python language and common Python libraries, you'll experience firsthand the challenges of dealing with data at scale and gain a solid foundation in data science.
