@@ -28,8 +28,10 @@ if __name__ == '__main__':
 
 ### PythonKC Summer 2016 Meetup
 * [Thursday 25 August 2016](http://www.meetup.com/pythonkc/events/xgjdhlyvlbhc/)
-* Location: [C2FO](https://c2fo.com) (Thanks, Garry Polley!)
+* Location: [C2FO](https://c2fo.com) (Thanks, [Garry Polley](http://www.meetup.com/pythonkc/members/81319782/)!)
 * Response to call for presentations has been _overwhelming_
+    * Please read the update [here](http://www.meetup.com/pythonkc/messages/boards/thread/49947683)
+    * Please respond as a post to that discussion if you're interested in presenting in 2016
 
 ### PythonKC August 2016 Coffee & Code
 * [Saturday 13 August 2016](http://www.meetup.com/pythonkc/events/232044610/)
@@ -41,3 +43,10 @@ if __name__ == '__main__':
 * [Meetup.com Discussion Board](http://www.meetup.com/pythonkc/messages/boards/thread/49656306)
 
 ## Python News and Resources
+* Python Software Foundation. [Python 2.7.12](https://www.python.org/downloads/release/python-2712/)
+* Python Software Foundation. [Python 3.5.2](https://www.python.org/downloads/release/python-352/)
+* Juan Pedro Fisanotti. [Separate IO from algorithms](http://www.machinalis.com/blog/separate-io-from-algorithms/)
+* Brett Cannon. [Idiomatic Python: EAFP versus LBYL](https://blogs.msdn.microsoft.com/pythonengineering/2016/06/29/idiomatic-python-eafp-versus-lbyl/)
+* Mike Driscoll. [Python 101: An Intro to `urllib`](http://www.blog.pythonlibrary.org/2016/06/28/python-101-an-intro-to-urllib/)
+* Kyle Hanson. [Supercharging Django Productivity](https://blog.esharesinc.com/supercharging-django-productivity-at-eshares-8dbf9042825e#)
+* James Bennett. [On Python 3, again](http://www.b-list.org/weblog/2016/jun/10/python-3-again/)
