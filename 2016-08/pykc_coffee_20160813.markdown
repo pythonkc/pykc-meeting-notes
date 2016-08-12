@@ -14,8 +14,19 @@ if __name__ == '__main__':
 
 ## PythonKC News
 
-### PythonKC Organization
+### PythonKC Organizer Search
+* Python expertise is _not_ a requirement
+    * Organizer tasks have almost _nothing_ to do with Python skills
+    * Finding meeting space and lining up presentations don't require writing code
+* Being an organizer is _not_ a huge time commitment
+    * Mostly it's just _showing up_
+    * No current organizer is stepping down
+* We'd like to represent differing points-of-view
+    * Take a look at the current PythonKC organizers
+    * We're more alike than different
+    * We'd like to change that
 * Welcome Julie Stark!
+* We're _still_ looking for other interested people
 
 ### PythonKC Summer 2016 Meetup
 * [Thursday 25 August 2016](http://www.meetup.com/pythonkc/events/xgjdhlyvlbhc/)
