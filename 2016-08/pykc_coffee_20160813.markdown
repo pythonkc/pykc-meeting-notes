@@ -49,3 +49,10 @@ if __name__ == '__main__':
 ## Python News and Resources
 * Noam Elfanbaum. [Designing Pythonic APIs](http://noamelf.com/2016/08/05/designing-pythonic-apis/) (_Point_)
 * Nick Coghlan. [What problem does it solve?](http://www.curiousefficiency.org/posts/2016/08/what-problem-does-it-solve.html) (_Counterpoint_)
+* Julien Danjou. [The definitive guide to Python exceptions](https://julien.danjou.info/blog/2016/python-exceptions-guide)
+* Hynek Schlawack. [Please Fix Your Decorators](https://hynek.me/articles/decorators/)
+* Eevee/Lexy Munroe. [Why should I use Python 3?](https://eev.ee/blog/2016/07/31/python-faq-why-should-i-use-python-3/)
+* Marcin Kulik/asciinema blog. [1.3 aka "And Now for Something Completely Different"](http://blog.asciinema.org/post/and-now-for-something-completely-different/)
+* Simon Coulton/Bespohk blog. [Improving your Python workflow with Visual Studio Code](https://bespohk.com/blog/configuring-python-visual-studio-code)
+* Eli Uriegas. [Why `ptpython` is the only REPL you will ever need](http://terriblecode.com/why-ptpython-is-the-only-repl-you-will-ever-need-2/)
+
