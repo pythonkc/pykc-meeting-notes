@@ -40,3 +40,11 @@ if __name__ == '__main__':
 * [Meetup.com Discussion Board](http://www.meetup.com/pythonkc/messages/boards/thread/49656306)
 
 ## Python News and Resources
+* David Sale. [Dockerizing a Python Django Web Application](https://semaphoreci.com/community/tutorials/dockerizing-a-python-django-web-application)
+* Mahmoud Hashemi. [Python Packaging at PayPal](https://www.paypal-engineering.com/2016/09/07/python-packaging-at-paypal/)
+* Reuven Lerner. [Implementing “zip” with list comprehensions](http://blog.lerner.co.il/implementing-zip-list-comprehensions/)
+* Adam Johnson. [Upgrading to Python 3 with Zero Downtime](https://tech.yplanapp.com/2016/08/24/upgrading-to-python-3-with-zero-downtime/)
+* Andrew Godwin. [Channels adopted as an official Django project](https://www.djangoproject.com/weblog/2016/sep/09/channels-adopted-official-django-project/)
+* Krzysztof Żuraw. [Makefiles in python projects](http://krzysztofzuraw.com/blog/2016/makefiles-in-python-projects.html)
+* Andrew Kelleher. [Deep Exploration Into Python: Let’s Review The Dict Module](https://www.buzzfeed.com/andrewkelleher/deep-exploration-into-python-lets-review-the-dict-module)
+* Python Bug Tracker. [Compact and ordered dict](http://bugs.python.org/issue27350)
