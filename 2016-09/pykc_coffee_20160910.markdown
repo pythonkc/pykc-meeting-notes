@@ -7,6 +7,7 @@ def greetings():
     print("Welcome to PythonKC Coffee & Code.")
     print("Today is Saturday 10 September 2016.")
     print("Thanks to SpiderOak.")
+    print("PythonKC is awesome!")
 
 if __name__ == '__main__':
     greetings()
