@@ -38,3 +38,9 @@ if __name__ == '__main__':
 
 ## Python News and Resources
 * Adrian Rosebrock. [Bubble sheet multiple choice scanner and test grader using OMR, Python and OpenCV](http://www.pyimagesearch.com/2016/10/03/bubble-sheet-multiple-choice-scanner-and-test-grader-using-omr-python-and-opencv/)
+* [Guido on dicts in Python 3.6](https://www.reddit.com/r/Python/comments/55iqpo/guido_on_dicts_in_python_36/)
+* The age-old web framework debate: [Flask vs Django](https://www.reddit.com/r/Python/comments/560gov/flask_or_django/)
+* An example of a small Python library [Joystick (Real-time plotting and logging while console controlling)](https://github.com/ceyzeriat/joystick)
+* Dataquest.io: [Working with SQLite Databases using Python and Pandas](https://www.dataquest.io/blog/python-pandas-databases/)
+* [Machine Learning Exercises In Python, Part 1 (of 8)](http://www.johnwittenauer.net/machine-learning-exercises-in-python-part-1/)
+* [Pycoder's Weekly](http://pycoders.com/) (our secret source for articles like this)
