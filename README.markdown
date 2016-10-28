@@ -4,7 +4,7 @@
 
 ### October
 * [Coffee & Code Meeting Notes](https://github.com/pythonkc/pykc-meeting-notes/blob/master/2016-10/pykc_coffee_20161008.markdown)
-* [Autumn 2016 Meetup Notes](https://github.com/pythonkc/pykc-meeting-notes/blob/master/2016-10/pykc_summer_meetup_20161027.markdown)
+* [Autumn 2016 Meetup Notes](https://github.com/pythonkc/pykc-meeting-notes/blob/master/2016-10/pykc_autumn_meetup_20161027.markdown)
 
 ### September
 * [Coffee & Code Meeting Notes](https://github.com/pythonkc/pykc-meeting-notes/blob/master/2016-09/pykc_coffee_20160910.markdown)
