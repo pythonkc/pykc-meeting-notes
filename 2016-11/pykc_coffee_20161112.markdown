@@ -24,7 +24,7 @@ if __name__ == '__main__':
 * We're _still_ looking for other interested people
 
 ### PythonKC Winter Meetup
-    * [Thursday 26 January 2017](https://www.meetup.com/pythonkc/events/232904085/)
+* [Thursday 26 January 2017](https://www.meetup.com/pythonkc/events/232904085/)
 * Location TBD
 * Topics TBD
 
