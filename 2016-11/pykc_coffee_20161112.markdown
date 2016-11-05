@@ -32,3 +32,4 @@ if __name__ == '__main__':
 
 ## Python News and Resources
 * [SQL using Jinja Templates](https://github.com/hashedin/jinjasql)
+* Armin Ronacher: [I don't understand Python's Asyncio](http://lucumr.pocoo.org/2016/10/30/i-dont-understand-asyncio/)
