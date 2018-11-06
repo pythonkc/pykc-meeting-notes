@@ -1,0 +1,34 @@
+Agenda Items
+
+What should be said when starting any PyKC Meeting
+Post wifi password
+Welcome
+Introduce yourself
+Thank Sponsors and showcase what they do / food they brought / ask them if they want to say a few words
+Introduce recruiters and allow them time to speak
+How to get onto our Slack Channel: http://pykc-slackipy.herokuapp.com/
+Our other resources (what are they?)
+Call for more organizers?
+Go around the room for introductions – which should include name and what brought you to our meetup.
+
+What resources should be available to every organizational team member and where are they?
+(Thanks to Caleb for listing these)
+PythonKC Organizer Channels
+Github PythonKC Repository as an admin: https://github.com/pythonkc
+Meetup as an admin: https://www.meetup.com/pythonkc
+Access to our website: http://pythonkc.com/
+Google sheet with passwords – not sure where this is? Github Repository?
+Gmail Account: pythonkc@gmail.com
+
+Collect best contact info for every org team member (OTM)
+Name			Slack		Email				Phone
+Julie Stark 	@justark	cakelp21@gmail.com 	913-221-7715 
+
+
+Goals for the upcoming year
+General Goals
+Have meetup locations scheduled 6 mos in advance (ultimate fantasy = year in advance)
+Have presentations lined up 6 mos in advance (ultimate fantasy = year in advance)
+Determine which OTMs will be at the mtg 4 wks in advance – do a roll call? 
+Confirm location, speakers for upcoming mtg 4 wks in advance?
+Try to have a good division of labor so that everyone does their share and no one feels over-burdened. This means we will have to share when we feel over whelmed, or if we need to step back for a little while.
